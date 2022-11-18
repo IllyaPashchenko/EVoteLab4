@@ -1,6 +1,5 @@
 package com.company;
 
-import java.nio.charset.StandardCharsets;
 import java.util.Random;
 
 public abstract class VoteGenerator {

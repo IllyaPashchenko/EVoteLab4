@@ -12,7 +12,7 @@ public class Main {
         people.add(new Citizen("Vasyl", "Pupkin", 2));
         people.add(new Citizen("Grigoriy", "Vasilchenko", 3));
         people.add(new Citizen("Fedor", "Soloviy", 4));
-        people.add(new Citizen("Denis", "Vilnyj", 5));
+//        people.add(new Citizen("Denis", "Vilnyj", 5));
 
         for (Citizen guy : people) {
             guy.setAllPeople(people);
